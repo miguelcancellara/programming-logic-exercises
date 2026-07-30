@@ -21,6 +21,7 @@ Desenvolver um sistema capaz de cadastrar, listar, buscar e remover alunos.
 - Buscar aluno pelo nome
 - Remover aluno
 - Calcular média da turma
+- Sair
 
 ---
 
